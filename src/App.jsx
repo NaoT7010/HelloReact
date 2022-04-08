@@ -21,6 +21,7 @@ export const App = () => {
       <h1 style={{ color: "red" }}>こんにちは！</h1>
       <p style={contentStyle}>お元気ですか？</p>
       <button onClick={onClickButton}>ボタン</button>
+      <h1>おやすみなさい</h1>
     </>
   );
 };
